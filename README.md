@@ -18,7 +18,7 @@ This project implements a Bag of Words model to classify text data.
 - **Reduce words to their root form (e.g., "running" becomes "run").**
 - **Create a list of cleaned and processed text.**
 
-**2.Vectorize the text:
+**2.Vectorize the text:**
 - **Transform the list of processed text into numerical vectors that represent the frequency of each word.**
 
 **3.Train the model:**
